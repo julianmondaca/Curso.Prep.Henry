@@ -1,11 +1,24 @@
 
 h1{color:aqua;}
 img{width: 400px;}
-thirdDiv{height: 600;
+#thirdDiv{height: 600;
         width: 500;
         background: beige;
         padding: 50px;
         border: 10px solid gray;
         }
-spanId{font-size: 18px;
-        margin: 50px;}        
+#spanId{
+    font-size: 18px;
+    margin: 50 px;
+    }       
+
+/* credito adicional */
+html{background-image: url("https://www.front.id/sites/default/files/default_images/bg-header.png");}
+.divClass{
+    justify-content: center;
+    align-items: center;
+}
+#divId{
+    justify-content: center;
+    align-items: center;
+}
